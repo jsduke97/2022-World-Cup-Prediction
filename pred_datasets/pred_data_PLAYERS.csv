@@ -1,0 +1,829 @@
+﻿team_name,comp_group,position,full_name,first_initial,last_name
+Ecuador,A,G,Moises Ramirez,M,Ramirez
+Ecuador,A,G,Alexander Dominguez,A,Dominguez
+Ecuador,A,G,Hernan Galindez,H,Galindez
+Ecuador,A,D,Piero Hincapie,P,Hincapie
+Ecuador,A,D,Robert Arboleda,R,Arboleda
+Ecuador,A,D,Pervis Estupinan,P,Estupinan
+Ecuador,A,D,Angelo Preciado,A,Preciado
+Ecuador,A,D,Jackson Porozo,J,Porozo
+Ecuador,A,D,Xavier Arreaga,X,Arreaga
+Ecuador,A,D,Felix Torres,F,Torres
+Ecuador,A,D,Diego Palacios,D,Palacios
+Ecuador,A,D,William Pacho,W,Pacho
+Ecuador,A,M,Carlos Gruezo,C,Gruezo
+Ecuador,A,M,Jose Cifuentes,J,Cifuentes
+Ecuador,A,M,Alan Franco,A,Franco
+Ecuador,A,M,Moises Caicedo,M,Caicedo
+Ecuador,A,M,Angel Mena,A,Mena
+Ecuador,A,M,Jeremy Sarmiento,J,Sarmiento
+Ecuador,A,M,Ayrton Preciado,A,Preciado
+Ecuador,A,M,Sebastian Mendez,S,Mendez
+Ecuador,A,M,Gonzalo Plata,G,Plata
+Ecuador,A,M,Romario Ibarra,R,Ibarra
+Ecuador,A,F,Djorkaeff Reasco,D,Reasco
+Ecuador,A,F,Kevin Rodriguez,K,Rodriguez
+Ecuador,A,F,Michael Estrada,M,Estrada
+Ecuador,A,F,Enner Valencia,E,Valencia
+Netherlands,A,G,Justin Bijlow,J,Bijlow
+Netherlands,A,G,Andries Noppert,A,Noppert
+Netherlands,A,G,Remko Pasveer,R,Pasveer
+Netherlands,A,D,Virgil van Dijk,V,van Dijk
+Netherlands,A,D,Nathan Ake,N,Ake
+Netherlands,A,D,Daley Blind,D,Blind
+Netherlands,A,D,Jurrien Timber,J,Timber
+Netherlands,A,D,Denzel Dumfries,D,Dumfries
+Netherlands,A,D,Stefan de Vrij,S,de Vrij
+Netherlands,A,D,Matthijs de Ligt,M,de Ligt
+Netherlands,A,D,Tyrell Malacia,T,Malacia
+Netherlands,A,D,Jeremie Frimpong,J,Frimpong
+Netherlands,A,M,Frenkie de Jong,F,de Jong
+Netherlands,A,M,Steven Berghuis,S,Berghuis
+Netherlands,A,M,Davy Klaassen,D,Klaassen
+Netherlands,A,M,Teun Koopmeiners,T,Koopmeiners
+Netherlands,A,M,Marten de Roon,M,de Roon
+Netherlands,A,M,Cody Gakpo,C,Gakpo
+Netherlands,A,M,Kenneth Taylor,K,Taylor
+Netherlands,A,M,Xavi Simons,X,Simons
+Netherlands,A,F,Memphis Depay,M,Depay
+Netherlands,A,F,Steven Bergwijn,S,Bergwijn
+Netherlands,A,F,Vincent Janssen,V,Janssen
+Netherlands,A,F,Luuk de Jong,L,de Jong
+Netherlands,A,F,Noa Lang,N,Lang
+Netherlands,A,F,Wout Weghorst,W,Weghorst
+Qatar,A,G,Saad Al-Sheeb,S,Al-Sheeb
+Qatar,A,G,Meshaal Barsham,M,Barsham
+Qatar,A,G,Yousef Hassan,Y,Hassan
+Qatar,A,D,Pedro Miguel,P,Miguel
+Qatar,A,D,Musaab Khidir,M,Khidir
+Qatar,A,D,Tarek Salman,T,Salman
+Qatar,A,D,Bassam Al-Rawi,B,Al-Rawi
+Qatar,A,D,Boualem Khoukhi,B,Khoukhi
+Qatar,A,D,Abdelkarim Hassan,A,Hassan
+Qatar,A,D,Homam Ahmed,H,Ahmed
+Qatar,A,D,Jassem Gaber,J,Gaber
+Qatar,A,M,Ali Asad,A,Asad
+Qatar,A,M,Assim Madabo,A,Madabo
+Qatar,A,M,Mohammed Waad,M,Waad
+Qatar,A,M,Salem Al-Hajri,S,Al-Hajri
+Qatar,A,M,Moustafa Tarek,M,Tarek
+Qatar,A,M,Karim Boudiaf,K,Boudiaf
+Qatar,A,M,Abdelaziz Hatim,A,Hatim
+Qatar,A,M,Ismail Mohamad,I,Mohamad
+Qatar,A,F,Naif Al-Hadhrami,N,Al-Hadhrami
+Qatar,A,F,Ahmed Alaaeldin,A,Alaaeldin
+Qatar,A,F,Hassan Al-Haydos,H,Al-Haydos
+Qatar,A,F,Khalid Muneer,K,Muneer
+Qatar,A,F,Akram Afif,A,Afif
+Qatar,A,F,Almoez Ali,A,Ali
+Qatar,A,F,Mohamed Muntari,M,Muntari
+Senegal,A,G,Edouard Mendy,E,Mendy
+Senegal,A,G,Alfred Gomis,A,Gomis
+Senegal,A,G,Seny Dieng,S,Dieng
+Senegal,A,D,Kalidou Koulibaly,K,Koulibaly
+Senegal,A,D,Abdou Diallo,A,Diallo
+Senegal,A,D,Youssouf Sabaly,Y,Sabaly
+Senegal,A,D,Fode Ballo-Toure,F,Ballo-Toure
+Senegal,A,D,Pape Abdou Cisse,P,Abdou Cisse
+Senegal,A,D,Ismail Jakobs,I,Jakobs
+Senegal,A,D,Formose Mendy,F,Mendy
+Senegal,A,M,Idrissa Gueye,I,Gueye
+Senegal,A,M,Cheikhou Kouyate,C,Kouyate
+Senegal,A,M,Nampalys Mendy,N,Mendy
+Senegal,A,M,Krepin Diatta,K,Diatta
+Senegal,A,M,Pape Gueye,P,Gueye
+Senegal,A,M,Pape Matar Sarr,P,Matar Sarr
+Senegal,A,M,Pathe Ciss,P,Ciss
+Senegal,A,M,Moustapha Name,M,Name
+Senegal,A,M,Loum Ndiaye,L,Ndiaye
+Senegal,A,F,Ismaila Sarr,I,Sarr
+Senegal,A,F,Boulaye Dia,B,Dia
+Senegal,A,F,Bamba Dieng,B,Dieng
+Senegal,A,F,Famara Diedhiou,F,Diedhiou
+Senegal,A,F,Nicolas Jackson,N,Jackson
+Senegal,A,F,Iliman Ndiaye,I,Ndiaye
+England,B,G,Jordan Pickford,J,Pickford
+England,B,G,Aaron Ramsdale,A,Ramsdale
+England,B,G,Nick Pope,N,Pope
+England,B,D,Kieran Trippier,K,Trippier
+England,B,D,Trent Alexander-Arnold,T,Alexander-Arnold
+England,B,D,Kyle Walker,K,Walker
+England,B,D,Ben White,B,White
+England,B,D,Harry Maguire,H,Maguire
+England,B,D,John Stones,J,Stones
+England,B,D,Eric Dier,E,Dier
+England,B,D,Conor Coady,C,Coady
+England,B,D,Luke Shaw,L,Shaw
+England,B,M,Declan Rice,D,Rice
+England,B,M,Jude Bellingham,J,Bellingham
+England,B,M,Kalvin Phillips,K,Phillips
+England,B,M,Jordan Henderson,J,Henderson
+England,B,M,Conor Gallagher,C,Gallagher
+England,B,M,Mason Mount,M,Mount
+England,B,F,Harry Kane,H,Kane
+England,B,F,Callum Wilson,C,Wilson
+England,B,F,Marcus Rashford,M,Rashford
+England,B,F,Raheem Sterling,R,Sterling
+England,B,F,Bukayo Saka,B,Saka
+England,B,F,Phil Foden,P,Foden
+England,B,F,Jack Grealish,J,Grealish
+England,B,F,James Maddison,J,Maddison
+Iran,B,G,Alireza Beiranvand,A,Beiranvand
+Iran,B,G,Amir Abedzadeh,A,Abedzadeh
+Iran,B,G,Hossein Hosseini,H,Hosseini
+Iran,B,G,Payam Niazmand,P,Niazmand
+Iran,B,D,Ehsan Hajsafi,E,Hajsafi
+Iran,B,D,Morteza Pouraliganji,M,Pouraliganji
+Iran,B,D,Ramin Rezaeian,R,Rezaeian
+Iran,B,D,Milad Mohammadi,M,Mohammadi
+Iran,B,D,Hossein Kanani,H,Kanani
+Iran,B,D,Shojae Khalilzadeh,S,Khalilzadeh
+Iran,B,D,Sadegh Moharrami,S,Moharrami
+Iran,B,D,Rouzbeh Cheshmi,R,Cheshmi
+Iran,B,D,Majid Hosseini,M,Hosseini
+Iran,B,D,Abolfazl Jalali,A,Jalali
+Iran,B,M,Ahmad Noorollahi,A,Noorollahi
+Iran,B,M,Saman Ghoddos,S,Ghoddos
+Iran,B,M,Vahid Amiri,V,Amiri
+Iran,B,M,Saeid Ezatolahi,S,Ezatolahi
+Iran,B,M,Alireza Jahanbakhsh,A,Jahanbakhsh
+Iran,B,M,Mehdi Torabi,M,Torabi
+Iran,B,M,Ali Gholizadeh,A,Gholizadeh
+Iran,B,M,Ali Karimi,A,Karimi
+Iran,B,F,Karim Ansarifard,K,Ansarifard
+Iran,B,F,Sardar Azmoun,S,Azmoun
+Iran,B,F,Mehdi Taremi,M,Taremi
+USA,B,G,Matt Turner,M,Turner
+USA,B,G,Sean Johnson,S,Johnson
+USA,B,G,Ethan Horvath,E,Horvath
+USA,B,D,Cameron Carter-Vickers,C,Carter-Vickers
+USA,B,D,Sergino Dest,S,Dest
+USA,B,D,Aaron Long,A,Long
+USA,B,D,Shaq Moore,S,Moore
+USA,B,D,Tim Ream,T,Ream
+USA,B,D,Antonee Robinson,A,Robinson
+USA,B,D,Joe Scally,J,Scally
+USA,B,D,DeAndre Yedlin,D,Yedlin
+USA,B,D,Walker Zimmerman,W,Zimmerman
+USA,B,M,Brenden Aaronson,B,Aaronson
+USA,B,M,Kellyn Acosta,K,Acosta
+USA,B,M,Tyler Adams,T,Adams
+USA,B,M,Luca de la Torre,L,de la Torre
+USA,B,M,Weston McKennie,W,McKennie
+USA,B,M,Yunus Musah,Y,Musah
+USA,B,M,Cristian Roldan,C,Roldan
+USA,B,F,Jesus Ferreira,J,Ferreira
+USA,B,F,Jordan Morris,J,Morris
+USA,B,F,Christian Pulisic,C,Pulisic
+USA,B,F,Gio Reyna,G,Reyna
+USA,B,F,Joshua Sargent,J,Sargent
+USA,B,F,Timothy Weah,T,Weah
+USA,B,F,Haji Wright,H,Wright
+Wales,B,G,Wayne Hennessey,W,Hennessey
+Wales,B,G,Danny Ward,D,Ward
+Wales,B,G,Adam Davies,A,Davies
+Wales,B,D,Ben Davies,B,Davies
+Wales,B,D,Ben Cabango,B,Cabango
+Wales,B,D,Tom Lockyer,T,Lockyer
+Wales,B,D,Joe Rodon,J,Rodon
+Wales,B,D,Chris Mepham,C,Mepham
+Wales,B,D,Ethan Ampadu,E,Ampadu
+Wales,B,D,Chris Gunter,C,Gunter
+Wales,B,D,Neco Williams,N,Williams
+Wales,B,D,Connor Roberts,C,Roberts
+Wales,B,M,Sorba Thomas,S,Thomas
+Wales,B,M,Joe Allen,J,Allen
+Wales,B,M,Matthew Smith,M,Smith
+Wales,B,M,Dylan Levitt,D,Levitt
+Wales,B,M,Harry Wilson,H,Wilson
+Wales,B,M,Joe Morrell,J,Morrell
+Wales,B,M,Jonny Williams,J,Williams
+Wales,B,M,Aaron Ramsey,A,Ramsey
+Wales,B,M,Rubin Colwill,R,Colwill
+Wales,B,F,Gareth Bale,G,Bale
+Wales,B,F,Kieffer Moore,K,Moore
+Wales,B,F,Mark Harris,M,Harris
+Wales,B,F,Brennan Johnson,B,Johnson
+Wales,B,F,Daniel James,D,James
+Argentina,C,G,Emiliano Martinez,E,Martinez
+Argentina,C,G,Geronimo Rulli,G,Rulli
+Argentina,C,G,Franco Armani,F,Armani
+Argentina,C,D,Nahuel Molina,N,Molina
+Argentina,C,D,Gonzalo Montiel,G,Montiel
+Argentina,C,D,Cristian Romero,C,Romero
+Argentina,C,D,German Pezzella,G,Pezzella
+Argentina,C,D,Nicolas Otamendi,N,Otamendi
+Argentina,C,D,Lisandro Martinez,L,Martinez
+Argentina,C,D,Marcos Acuna,M,Acuna
+Argentina,C,D,Nicolas Tagliafico,N,Tagliafico
+Argentina,C,D,Juan Foyth,J,Foyth
+Argentina,C,M,Rodrigo De Paul,R,De Paul
+Argentina,C,M,Leandro Paredes,L,Paredes
+Argentina,C,M,Alexis Mac Allister,A,Mac Allister
+Argentina,C,M,Guido Rodriguez,G,Rodriguez
+Argentina,C,M,Papu Gomez,P,Gomez
+Argentina,C,M,Enzo Fernandez,E,Fernandez
+Argentina,C,M,Exequiel Palacios,E,Palacios
+Argentina,C,F,Lionel Messi,L,Messi
+Argentina,C,F,Angel Di Maria,A,Di Maria
+Argentina,C,F,Lautaro Martinez,L,Martinez
+Argentina,C,F,Julian Alvarez,J,Alvarez
+Argentina,C,F,Paulo Dybala,P,Dybala
+Argentina,C,F,Nicolas Gonzalez,N,Gonzalez
+Argentina,C,F,Joaquin Correa,J,Correa
+Mexico,C,G,Guillermo Ochoa,G,Ochoa
+Mexico,C,G,Alfredo Talavera,A,Talavera
+Mexico,C,G,Rodolfo Cota,R,Cota
+Mexico,C,D,Kevin Alvarez,K,Alvarez
+Mexico,C,D,Nestor Araujo,N,Araujo
+Mexico,C,D,Gerardo Arteaga,G,Arteaga
+Mexico,C,D,Jesus Gallardo,J,Gallardo
+Mexico,C,D,Hector Moreno,H,Moreno
+Mexico,C,D,Cesar Montes,C,Montes
+Mexico,C,D,Jorge Sanchez,J,Sanchez
+Mexico,C,D,Johan Vasquez,J,Vasquez
+Mexico,C,M,Edson Alvarez,E,Alvarez
+Mexico,C,M,Roberto Alvarado,R,Alvarado
+Mexico,C,M,Uriel Antuna,U,Antuna
+Mexico,C,M,Luis Chavez,L,Chavez
+Mexico,C,M,Andres Guardado,A,Guardado
+Mexico,C,M,Erick Gutierrez,E,Gutierrez
+Mexico,C,M,Hector Herrera,H,Herrera
+Mexico,C,M,Orbelin Pineda,O,Pineda
+Mexico,C,M,Carlos Rodriguez,C,Rodriguez
+Mexico,C,M,Luis Romo,L,Romo
+Mexico,C,F,Rogelio Funes Mori,R,Funes Mori
+Mexico,C,F,Raul Jimenez,R,Jimenez
+Mexico,C,F,Hirving Lozano,H,Lozano
+Mexico,C,F,Henry Martin,H,Martin
+Mexico,C,F,Alexis Vega,A,Vega
+Poland,C,G,Wojciech Szczesny,W,Szczesny
+Poland,C,G,Bartlomiej Dragowski,B,Dragowski
+Poland,C,G,Lukasz Skorupski,L,Skorupski
+Poland,C,D,Jan Bednarek,J,Bednarek
+Poland,C,D,Kamil Glik,K,Glik
+Poland,C,D,Robert Gumny,R,Gumny
+Poland,C,D,Artur Jedrzejczyk,A,Jedrzejczyk
+Poland,C,D,Jakub Kiwior,J,Kiwior
+Poland,C,D,Mateusz Wieteska,M,Wieteska
+Poland,C,D,Bartosz Bereszynski,B,Bereszynski
+Poland,C,D,Matthew Cash,M,Cash
+Poland,C,D,Nicola Zalewski,N,Zalewski
+Poland,C,M,Krystian Bielik,K,Bielik
+Poland,C,M,Przemyslaw Frankowski,P,Frankowski
+Poland,C,M,Kamil Grosicki,K,Grosicki
+Poland,C,M,Grzegorz Krychowiak,G,Krychowiak
+Poland,C,M,Jakub Kaminski,J,Kaminski
+Poland,C,M,Michal Skoras,M,Skoras
+Poland,C,M,Damian Szymanski,D,Szymanski
+Poland,C,M,Sebastian Szymanski,S,Szymanski
+Poland,C,M,Piotr Zielinski,P,Zielinski
+Poland,C,M,Szymon Zurkowski,S,Zurkowski
+Poland,C,F,Robert Lewandowski,R,Lewandowski
+Poland,C,F,Arkadiusz Milik,A,Milik
+Poland,C,F,Krzysztof Piatek,K,Piatek
+Poland,C,F,Karol Swiderski,K,Swiderski
+Saudi Arabia,C,G,Mohamed Al-Owais,M,Al-Owais
+Saudi Arabia,C,G,Nawaf Al-Aqidi,N,Al-Aqidi
+Saudi Arabia,C,G,Mohamed Al-Yami,M,Al-Yami
+Saudi Arabia,C,D,Yasser Al-Shahrani,Y,Al-Shahrani
+Saudi Arabia,C,D,Ali Al-Bulaihi,A,Al-Bulaihi
+Saudi Arabia,C,D,Abdulelah Al-Amri,A,Al-Amri
+Saudi Arabia,C,D,Abdullah Madu,A,Madu
+Saudi Arabia,C,D,Hassan Tambakti,H,Tambakti
+Saudi Arabia,C,D,Sultan Al-Ghanam,S,Al-Ghanam
+Saudi Arabia,C,D,Mohammed Al-Breik,M,Al-Breik
+Saudi Arabia,C,D,Saud Abdulhamid,S,Abdulhamid
+Saudi Arabia,C,M,Salman Al-Faraj,S,Al-Faraj
+Saudi Arabia,C,M,Riyadh Sharahili,R,Sharahili
+Saudi Arabia,C,M,Ali Al-Hassan,A,Al-Hassan
+Saudi Arabia,C,M,Mohamed Kanno,M,Kanno
+Saudi Arabia,C,M,Abdulelah Al-Malki,A,Al-Malki
+Saudi Arabia,C,M,Sami Al-Najei,S,Al-Najei
+Saudi Arabia,C,M,Abdullah Otayf,A,Otayf
+Saudi Arabia,C,M,Nasser Al-Dawsari,N,Al-Dawsari
+Saudi Arabia,C,M,Abdulrahman Al-Aboud,A,Al-Aboud
+Saudi Arabia,C,M,Salem Al-Dawsari,S,Al-Dawsari
+Saudi Arabia,C,M,Hattan Bahebri,H,Bahebri
+Saudi Arabia,C,F,Haitham Asiri,H,Asiri
+Saudi Arabia,C,F,Saleh Al-Shehri,S,Al-Shehri
+Saudi Arabia,C,F,Firas Al-Buraikan,F,Al-Buraikan
+Australia,D,G,Mat Ryan,M,Ryan
+Australia,D,G,Andrew Redmayne,A,Redmayne
+Australia,D,G,Danny Vukovic,D,Vukovic
+Australia,D,D,Milos Degenek,M,Degenek
+Australia,D,D,Aziz Behich,A,Behich
+Australia,D,D,Joel King,J,King
+Australia,D,D,Nathaniel Atkinson,N,Atkinson
+Australia,D,D,Fran Karacic,F,Karacic
+Australia,D,D,Harry Souttar,H,Souttar
+Australia,D,D,Kye Rowles,K,Rowles
+Australia,D,D,Bailey Wright,B,Wright
+Australia,D,D,Thomas Deng,T,Deng
+Australia,D,M,Aaron Mooy,A,Mooy
+Australia,D,M,Jackson Irvine,J,Irvine
+Australia,D,M,Ajdin Hrustic,A,Hrustic
+Australia,D,M,Keanu Baccus,K,Baccus
+Australia,D,M,Cameron Devlin,C,Devlin
+Australia,D,M,Riley McGree,R,McGree
+Australia,D,F,Awer Mabil,A,Mabil
+Australia,D,F,Mathew Leckie,M,Leckie
+Australia,D,F,Martin Boyle,M,Boyle
+Australia,D,F,Jamie Maclaren,J,Maclaren
+Australia,D,F,Jason Cummings,J,Cummings
+Australia,D,F,Mitchell Duke,M,Duke
+Australia,D,F,Garang Kuol,G,Kuol
+Australia,D,F,Craig Goodwin,C,Goodwin
+Denmark,D,G,Kasper Schmeichel,K,Schmeichel
+Denmark,D,G,Oliver Christensen,O,Christensen
+Denmark,D,G,Frederik Ronnow,F,Ronnow
+Denmark,D,D,Alexander Bah,A,Bah
+Denmark,D,D,Simon Kjaer,S,Kjaer
+Denmark,D,D,Joachim Andersen,J,Andersen
+Denmark,D,D,Joakim Maehle,J,Maehle
+Denmark,D,D,Andreas Christensen,A,Christensen
+Denmark,D,D,Rasmus Kristensen,R,Kristensen
+Denmark,D,D,Jens Stryger Larsen,J,Stryger Larsen
+Denmark,D,D,Victor Nelsson,V,Nelsson
+Denmark,D,D,Daniel Wass,D,Wass
+Denmark,D,M,Thomas Delaney,T,Delaney
+Denmark,D,M,Mathias Jensen,M,Jensen
+Denmark,D,M,Christian Eriksen,C,Eriksen
+Denmark,D,M,Pierre-Emile Hojbjerg,P,Hojbjerg
+Denmark,D,M,Christian Norgaard,C,Norgaard
+Denmark,D,M,Robert Skov,R,Skov
+Denmark,D,F,Andreas Cornelius,A,Cornelius
+Denmark,D,F,Martin Braithwaite,M,Braithwaite
+Denmark,D,F,Kasper Dolberg,K,Dolberg
+Denmark,D,F,Mikkel Damsgaard,M,Damsgaard
+Denmark,D,F,Jesper Lindstrom,J,Lindstrom
+Denmark,D,F,Yussuf Poulsen,Y,Poulsen
+Denmark,D,F,Andreas Skov Olsen,A,Skov Olsen
+Denmark,D,F,Jonas Wind,J,Wind
+France,D,G,Alphonse Areola,A,Areola
+France,D,G,Hugo Lloris,H,Lloris
+France,D,G,Steve Mandanda,S,Mandanda
+France,D,D,Lucas Hernandez,L,Hernandez
+France,D,D,Theo Hernandez,T,Hernandez
+France,D,D,Presnel Kimpembe,P,Kimpembe
+France,D,D,Ibrahima Konate,I,Konate
+France,D,D,Jules Kounde,J,Kounde
+France,D,D,Benjamin Pavard,B,Pavard
+France,D,D,William Saliba,W,Saliba
+France,D,D,Dayot Upamecano,D,Upamecano
+France,D,D,Raphael Varane,R,Varane
+France,D,M,Eduardo Camavinga,E,Camavinga
+France,D,M,Youssouf Fofana,Y,Fofana
+France,D,M,Matteo Guendouzi,M,Guendouzi
+France,D,M,Adrien Rabiot,A,Rabiot
+France,D,M,Aurelien Tchouameni,A,Tchouameni
+France,D,M,Jordan Veretout,J,Veretout
+France,D,F,Karim Benzema,K,Benzema
+France,D,F,Kingsley Coman,K,Coman
+France,D,F,Ousmane Dembele,O,Dembele
+France,D,F,Olivier Giroud,O,Giroud
+France,D,F,Antoine Griezmann,A,Griezmann
+France,D,F,Kylian Mbappe,K,Mbappe
+France,D,F,Christopher Nkunku,C,Nkunku
+Tunisia,D,G,Aymen Dahmen,A,Dahmen
+Tunisia,D,G,Bechir Ben Said,B,Ben Said
+Tunisia,D,G,Mouez Hassen,M,Hassen
+Tunisia,D,G,Aymen Mathlouthi,A,Mathlouthi
+Tunisia,D,D,Ali Abdi,A,Abdi
+Tunisia,D,D,Dylan Bronn,D,Bronn
+Tunisia,D,D,Mohamed Drager,M,Drager
+Tunisia,D,D,Nader Ghandri,N,Ghandri
+Tunisia,D,D,Bilel Ifa,B,Ifa
+Tunisia,D,D,Wajdi Kechrida,W,Kechrida
+Tunisia,D,D,Ali Maaloul,A,Maaloul
+Tunisia,D,D,Yassine Meriah,Y,Meriah
+Tunisia,D,D,Montassar Talbi,M,Talbi
+Tunisia,D,M,Mohamed Ali Ben Romdhane,M,Ali Ben Romdhane
+Tunisia,D,M,Ghaylane Chaalali,G,Chaalali
+Tunisia,D,M,Aissa Laidouni,A,Laidouni
+Tunisia,D,M,Hannibal Mejbri,H,Mejbri
+Tunisia,D,M,Ferjani Sassi,F,Sassi
+Tunisia,D,M,Elyas Skhiri,E,Skhiri
+Tunisia,D,F,Anis Ben Slimane,A,Ben Slimane
+Tunisia,D,F,Seifeddine Jaziri,S,Jaziri
+Tunisia,D,F,Issam Jebali,I,Jebali
+Tunisia,D,F,Wahbi Khazri,W,Khazri
+Tunisia,D,F,Taha Yassine Khenissi,T,Yassine Khenissi
+Tunisia,D,F,Youssef Msakni,Y,Msakni
+Tunisia,D,F,Naim Sliti,N,Sliti
+Costa Rica,E,G,Keylor Navas,K,Navas
+Costa Rica,E,G,Esteban Alvarado,E,Alvarado
+Costa Rica,E,G,Patrick Sequeira,P,Sequeira
+Costa Rica,E,D,Francisco Calvo,F,Calvo
+Costa Rica,E,D,Juan Pablo Vargas,J,Pablo Vargas
+Costa Rica,E,D,Kendall Waston,K,Waston
+Costa Rica,E,D,Oscar Duarte,O,Duarte
+Costa Rica,E,D,Daniel Chacon,D,Chacon
+Costa Rica,E,D,Keysher Fuller,K,Fuller
+Costa Rica,E,D,Carlos Martinez,C,Martinez
+Costa Rica,E,D,Bryan Oviedo,B,Oviedo
+Costa Rica,E,D,Ronald Matarrita,R,Matarrita
+Costa Rica,E,M,Yeltsin Tejeda,Y,Tejeda
+Costa Rica,E,M,Celso Borges,C,Borges
+Costa Rica,E,M,Youstin Salas,Y,Salas
+Costa Rica,E,M,Roan Wilson,R,Wilson
+Costa Rica,E,M,Gerson Torres,G,Torres
+Costa Rica,E,M,Douglas Lopez,D,Lopez
+Costa Rica,E,M,Jewison Bennette,J,Bennette
+Costa Rica,E,M,Alvaro Zamora,A,Zamora
+Costa Rica,E,M,Anthony Hernandez,A,Hernandez
+Costa Rica,E,M,Brandon Aguilera,B,Aguilera
+Costa Rica,E,M,Bryan Ruiz,B,Ruiz
+Costa Rica,E,F,Joel Campbell,J,Campbell
+Costa Rica,E,F,Anthony Contreras,A,Contreras
+Costa Rica,E,F,Johan Venegas,J,Venegas
+Germany,E,G,Manuel Neuer,M,Neuer
+Germany,E,G,Marc-Andre ter Stegen,M,ter Stegen
+Germany,E,G,Kevin Trapp,K,Trapp
+Germany,E,D,Matthias Ginter,M,Ginter
+Germany,E,D,Antonio Rudiger,A,Rudiger
+Germany,E,D,Niklas Sule,N,Sule
+Germany,E,D,Nico Schlotterbeck,N,Schlotterbeck
+Germany,E,D,Thilo Kehrer,T,Kehrer
+Germany,E,D,David Raum,D,Raum
+Germany,E,D,Lukas Klostermann,L,Klostermann
+Germany,E,D,Armel Bella-Kotchap,A,Bella-Kotchap
+Germany,E,D,Christian Gunter,C,Gunter
+Germany,E,M,Ilkay Gundogan,I,Gundogan
+Germany,E,M,Jonas Hofmann,J,Hofmann
+Germany,E,M,Leon Goretzka,L,Goretzka
+Germany,E,M,Serge Gnabry,S,Gnabry
+Germany,E,M,Leroy Sane,L,Sane
+Germany,E,M,Jamal Musiala,J,Musiala
+Germany,E,M,Joshua Kimmich,J,Kimmich
+Germany,E,M,Thomas Muller,T,Muller
+Germany,E,M,Julian Brandt,J,Brandt
+Germany,E,M,Mario Gotze,M,Gotze
+Germany,E,F,Kai Havertz,K,Havertz
+Germany,E,F,Youssoufa Moukoko,Y,Moukoko
+Germany,E,F,Niclas Fullkrug,N,Fullkrug
+Germany,E,F,Karim Adeyemi,K,Adeyemi
+Japan,E,G,Shuichi Gonda,S,Gonda
+Japan,E,G,Daniel Schmidt,D,Schmidt
+Japan,E,G,Eiji Kawashima,E,Kawashima
+Japan,E,D,Miki Yamane,M,Yamane
+Japan,E,D,Hiroki Sakai,H,Sakai
+Japan,E,D,Maya Yoshida,M,Yoshida
+Japan,E,D,Takehiro Tomiyasu,T,Tomiyasu
+Japan,E,D,Shogo Taniguchi,S,Taniguchi
+Japan,E,D,Ko Itakura,K,Itakura
+Japan,E,D,Hiroki Ito,H,Ito
+Japan,E,D,Yuto Nagatomo,Y,Nagatomo
+Japan,E,M,Wataru Endo,W,Endo
+Japan,E,M,Hidemasa Morita,H,Morita
+Japan,E,M,Ao Tanaka,A,Tanaka
+Japan,E,M,Gaku Shibasaki,G,Shibasaki
+Japan,E,M,Kaoru Mitoma,K,Mitoma
+Japan,E,M,Daichi Kamada,D,Kamada
+Japan,E,M,Ritsu Doan,R,Doan
+Japan,E,M,Junya Ito,J,Ito
+Japan,E,M,Takumi Minamino,T,Minamino
+Japan,E,M,Takefusa Kubo,T,Kubo
+Japan,E,M,Yuki Soma,Y,Soma
+Japan,E,F,Daizen Maeda,D,Maeda
+Japan,E,F,Takuma Asano,T,Asano
+Japan,E,F,Shuto Machino,S,Machino
+Japan,E,F,Ayase Ueda,A,Ueda
+Spain,E,G,Unai Simon,U,Simon
+Spain,E,G,Robert Sanchez,R,Sanchez
+Spain,E,G,David Raya,D,Raya
+Spain,E,D,Dani Carvajal,D,Carvajal
+Spain,E,D,Cesar Azpilicueta,C,Azpilicueta
+Spain,E,D,Eric Garcia,E,Garcia
+Spain,E,D,Hugo Guillamon,H,Guillamon
+Spain,E,D,Pau Torres,P,Torres
+Spain,E,D,Aymeric Laporte,A,Laporte
+Spain,E,D,Jordi Alba,J,Alba
+Spain,E,D,Jose Gaya,J,Gaya
+Spain,E,M,Sergio Busquets,S,Busquets
+Spain,E,M,Rodri,R,Rodri
+Spain,E,M,Gavi,G,Gavi
+Spain,E,M,Carlos Soler,C,Soler
+Spain,E,M,Marcos Llorente,M,Llorente
+Spain,E,M,Pedri,P,Pedri
+Spain,E,M,Koke,K,Koke
+Spain,E,F,Ferran Torres,F,Torres
+Spain,E,F,Nico Williams,N,Williams
+Spain,E,F,Yeremi Pino,Y,Pino
+Spain,E,F,Alvaro Morata,A,Morata
+Spain,E,F,Marco Asensio,M,Asensio
+Spain,E,F,Pablo Sarabia,P,Sarabia
+Spain,E,F,Dani Olmo,D,Olmo
+Spain,E,F,Ansu Fati,A,Fati
+Belgium,F,G,Thibaut Courtois,T,Courtois
+Belgium,F,G,Simon Mignolet,S,Mignolet
+Belgium,F,G,Koen Casteels,K,Casteels
+Belgium,F,D,Jan Vertonghen,J,Vertonghen
+Belgium,F,D,Toby Alderweireld,T,Alderweireld
+Belgium,F,D,Leander Dendoncker,L,Dendoncker
+Belgium,F,D,Zeno Debast,Z,Debast
+Belgium,F,D,Arthur Theate,A,Theate
+Belgium,F,D,Wout Faes,W,Faes
+Belgium,F,M,Hans Vanaken,H,Vanaken
+Belgium,F,M,Axel Witsel,A,Witsel
+Belgium,F,M,Youri Tielemans,Y,Tielemans
+Belgium,F,M,Amadou Onana,A,Onana
+Belgium,F,M,Kevin De Bruyne,K,De Bruyne
+Belgium,F,M,Yannick Carrasco,Y,Carrasco
+Belgium,F,M,Thorgan Hazard,T,Hazard
+Belgium,F,M,Timothy Castagne,T,Castagne
+Belgium,F,M,Thomas Meunier,T,Meunier
+Belgium,F,F,Romelu Lukaku,R,Lukaku
+Belgium,F,F,Michy Batshuayi,M,Batshuayi
+Belgium,F,F,Lois Openda,L,Openda
+Belgium,F,F,Charles De Ketelaere,C,De Ketelaere
+Belgium,F,F,Eden Hazard,E,Hazard
+Belgium,F,F,Jeremy Doku,J,Doku
+Belgium,F,F,Dries Mertens,D,Mertens
+Belgium,F,F,Leandro Trossard,L,Trossard
+Canada,F,G,James Pantemis,J,Pantemis
+Canada,F,G,Milan Borjan,M,Borjan
+Canada,F,G,Dayne St Clair,D,St Clair
+Canada,F,D,Samuel Adekugbe,S,Adekugbe
+Canada,F,D,Joel Waterman,J,Waterman
+Canada,F,D,Alistair Johnston,A,Johnston
+Canada,F,D,Richie Laryea,R,Laryea
+Canada,F,D,Kamal Miller,K,Miller
+Canada,F,D,Steven Vitoria,S,Vitoria
+Canada,F,D,Derek Cornelius,D,Cornelius
+Canada,F,M,Liam Fraser,L,Fraser
+Canada,F,M,Ismael Kone,I,Kone
+Canada,F,M,Mark-Anthony Kaye,M,Kaye
+Canada,F,M,David Wotherspoon,D,Wotherspoon
+Canada,F,M,Jonathan Osorio,J,Osorio
+Canada,F,M,Atiba Hutchinson,A,Hutchinson
+Canada,F,M,Stephen Eustaquio,S,Eustaquio
+Canada,F,M,Samuel Piette,S,Piette
+Canada,F,F,Tajon Buchanan,T,Buchanan
+Canada,F,F,Liam Millar,L,Millar
+Canada,F,F,Lucas Cavallini,L,Cavallini
+Canada,F,F,Ike Ugbo,I,Ugbo
+Canada,F,F,Junior Hoilett,J,Hoilett
+Canada,F,F,Jonathan David,J,David
+Canada,F,F,Cyle Larin,C,Larin
+Canada,F,F,Alphonso Davies,A,Davies
+Croatia,F,G,Dominik Livakovic,D,Livakovic
+Croatia,F,G,Ivica Ivusic,I,Ivusic
+Croatia,F,G,Ivo Grbic,I,Grbic
+Croatia,F,D,Domagoj Vida,D,Vida
+Croatia,F,D,Dejan Lovren,D,Lovren
+Croatia,F,D,Borna Barisic,B,Barisic
+Croatia,F,D,Josip Juranovic,J,Juranovic
+Croatia,F,D,Josko Gvardiol,J,Gvardiol
+Croatia,F,D,Borna Sosa,B,Sosa
+Croatia,F,D,Josip Stanisic,J,Stanisic
+Croatia,F,D,Martin Erlic,M,Erlic
+Croatia,F,D,Josip Sutalo,J,Sutalo
+Croatia,F,M,Luka Modric,L,Modric
+Croatia,F,M,Mateo Kovacic,M,Kovacic
+Croatia,F,M,Marcelo Brozovic,M,Brozovic
+Croatia,F,M,Mario Pasalic,M,Pasalic
+Croatia,F,M,Nikola Vlasic,N,Vlasic
+Croatia,F,M,Lovro Majer,L,Majer
+Croatia,F,M,Kristijan Jakic,K,Jakic
+Croatia,F,M,Luka Sucic,L,Sucic
+Croatia,F,F,Ivan Perisic,I,Perisic
+Croatia,F,F,Andrej Kramaric,A,Kramaric
+Croatia,F,F,Bruno Petkovic,B,Petkovic
+Croatia,F,F,Mislav Orsic,M,Orsic
+Croatia,F,F,Ante Budimir,A,Budimir
+Croatia,F,F,Marko Livaja,M,Livaja
+Morocco,F,G,Bono,B,Bono
+Morocco,F,G,Munir El Kajoui,M,El Kajoui
+Morocco,F,G,Ahmed Tagnaouti,A,Tagnaouti
+Morocco,F,D,Nayef Aguerd,N,Aguerd
+Morocco,F,D,Yahia Attiyat Allah,Y,Attiyat Allah
+Morocco,F,D,Badr Benoun,B,Benoun
+Morocco,F,D,Achraf Dari,A,Dari
+Morocco,F,D,Jawad El Yamiq,J,El Yamiq
+Morocco,F,D,Achraf Hakimi,A,Hakimi
+Morocco,F,D,Noussair Mazraoui,N,Mazraoui
+Morocco,F,D,Romain Saiss,R,Saiss
+Morocco,F,M,Sofyan Amrabat,S,Amrabat
+Morocco,F,M,Selim Amallah,S,Amallah
+Morocco,F,M,Bilal El Khannous,B,El Khannous
+Morocco,F,M,Yahya Jabrane,Y,Jabrane
+Morocco,F,M,Azzedine Ounahi,A,Ounahi
+Morocco,F,M,Abdelhamid Sabiri,A,Sabiri
+Morocco,F,F,Zakaria Aboukhlal,Z,Aboukhlal
+Morocco,F,F,Sofiane Boufal,S,Boufal
+Morocco,F,F,Ilias Chair,I,Chair
+Morocco,F,F,Walid Cheddira,W,Cheddira
+Morocco,F,F,Youssef En-Nesyri,Y,En-Nesyri
+Morocco,F,F,Abde Ezzalzouli,A,Ezzalzouli
+Morocco,F,F,Abderrazak Hamdallah,A,Hamdallah
+Morocco,F,F,Amine Harit,A,Harit
+Morocco,F,F,Hakim Ziyech,H,Ziyech
+Brazil,G,G,Alisson,A,Alisson
+Brazil,G,G,Ederson,E,Ederson
+Brazil,G,G,Weverton,W,Weverton
+Brazil,G,D,Dani Alves,D,Alves
+Brazil,G,D,Danilo,D,Danilo
+Brazil,G,D,Alex Sandro,A,Sandro
+Brazil,G,D,Alex Telles,A,Telles
+Brazil,G,D,Bremer,B,Bremer
+Brazil,G,D,Eder Militao,E,Militao
+Brazil,G,D,Marquinhos,M,Marquinhos
+Brazil,G,D,Thiago Silva,T,Silva
+Brazil,G,M,Bruno Guimaraes,B,Guimaraes
+Brazil,G,M,Casemiro,C,Casemiro
+Brazil,G,M,Everton Ribeiro,E,Ribeiro
+Brazil,G,M,Fabinho,F,Fabinho
+Brazil,G,M,Fred,F,Fred
+Brazil,G,M,Lucas Paqueta,L,Paqueta
+Brazil,G,F,Antony,A,Antony
+Brazil,G,F,Gabriel Jesus,G,Jesus
+Brazil,G,F,Gabriel Martinelli,G,Martinelli
+Brazil,G,F,Neymar,N,Neymar
+Brazil,G,F,Pedro,P,Pedro
+Brazil,G,F,Raphinha,R,Raphinha
+Brazil,G,F,Richarlison,R,Richarlison
+Brazil,G,F,Rodrygo,R,Rodrygo
+Brazil,G,F,Vinicius Junior,V,Junior
+Cameroon,G,G,Andre Onana,A,Onana
+Cameroon,G,G,Devis Epassy,D,Epassy
+Cameroon,G,G,Simon Ngapandouetnbu,S,Ngapandouetnbu
+Cameroon,G,D,Jean-Charles Castelletto,J,Castelletto
+Cameroon,G,D,Enzo Ebosse,E,Ebosse
+Cameroon,G,D,Collins Fai,C,Fai
+Cameroon,G,D,Olivier Mbaizo,O,Mbaizo
+Cameroon,G,D,Nouhou Tolo,N,Tolo
+Cameroon,G,D,Nicolas Nkoulou,N,Nkoulou
+Cameroon,G,D,Christopher Wooh,C,Wooh
+Cameroon,G,M,Olivier Ntcham,O,Ntcham
+Cameroon,G,M,Gael Ondoua,G,Ondoua
+Cameroon,G,M,Martin Hongla,M,Hongla
+Cameroon,G,M,Pierre Kunde,P,Kunde
+Cameroon,G,M,Samuel Oum Gouet,S,Oum Gouet
+Cameroon,G,M,Andre-Frank Zambo Anguissa,A,Zambo Anguissa
+Cameroon,G,M,Jerome Ngom,J,Ngom
+Cameroon,G,F,Nicolas Ngamaleu,N,Ngamaleu
+Cameroon,G,F,Christian Bassogog,C,Bassogog
+Cameroon,G,F,Bryan Mbeumo,B,Mbeumo
+Cameroon,G,F,Georges-Kevin Nkoudou,G,Nkoudou
+Cameroon,G,F,Jean-Pierre Nsame,J,Nsame
+Cameroon,G,F,Vincent Aboubakar,V,Aboubakar
+Cameroon,G,F,Karl Toko-Ekambi,K,Toko-Ekambi
+Cameroon,G,F,Eric Maxim Choupo-Moting,E,Maxim Choupo-Moting
+Cameroon,G,F,Souaibou Marou,S,Marou
+Serbia,G,G,Marko Dmitrovic,M,Dmitrovic
+Serbia,G,G,Predrag Rajkovic,P,Rajkovic
+Serbia,G,G,Vanja Milinkovic-Savic,V,Milinkovic-Savic
+Serbia,G,D,Stefan Mitrovic,S,Mitrovic
+Serbia,G,D,Nikola Milenkovic,N,Milenkovic
+Serbia,G,D,Strahinja Pavlovic,S,Pavlovic
+Serbia,G,D,Milos Veljkovic,M,Veljkovic
+Serbia,G,D,Filip Mladenovic,F,Mladenovic
+Serbia,G,D,Strahinja Erakovic,S,Erakovic
+Serbia,G,D,Srdjan Babic,S,Babic
+Serbia,G,M,Nemanja Gudelj,N,Gudelj
+Serbia,G,M,Sergej Milinkovic-Savic,S,Milinkovic-Savic
+Serbia,G,M,Sasa Lukic,S,Lukic
+Serbia,G,M,Marko Grujic,M,Grujic
+Serbia,G,M,Filip Kostic,F,Kostic
+Serbia,G,M,Uros Racic,U,Racic
+Serbia,G,M,Nemanja Maksimovic,N,Maksimovic
+Serbia,G,M,Ivan Ilic,I,Ilic
+Serbia,G,M,Andrija Zivkovic,A,Zivkovic
+Serbia,G,M,Darko Lazovic,D,Lazovic
+Serbia,G,F,Dusan Tadic,D,Tadic
+Serbia,G,F,Aleksandar Mitrovic,A,Mitrovic
+Serbia,G,F,Dusan Vlahovic,D,Vlahovic
+Serbia,G,F,Filip Djuricic,F,Djuricic
+Serbia,G,F,Luka Jovic,L,Jovic
+Serbia,G,F,Nemanja Radonjic,N,Radonjic
+Switzerland,G,G,Gregor Kobel,G,Kobel
+Switzerland,G,G,Yann Sommer,Y,Sommer
+Switzerland,G,G,Jonas Omlin,J,Omlin
+Switzerland,G,G,Philipp Kohn,P,Kohn
+Switzerland,G,D,Manuel Akanji,M,Akanji
+Switzerland,G,D,Eray Comert,E,Comert
+Switzerland,G,D,Nico Elvedi,N,Elvedi
+Switzerland,G,D,Fabian Schar,F,Schar
+Switzerland,G,D,Silvan Widmer,S,Widmer
+Switzerland,G,D,Ricardo Rodriguez,R,Rodriguez
+Switzerland,G,D,Edimilson Fernandes,E,Fernandes
+Switzerland,G,M,Michel Aebischer,M,Aebischer
+Switzerland,G,M,Xherdan Shaqiri,X,Shaqiri
+Switzerland,G,M,Renato Steffen,R,Steffen
+Switzerland,G,M,Granit Xhaka,G,Xhaka
+Switzerland,G,M,Denis Zakaria,D,Zakaria
+Switzerland,G,M,Fabian Frei,F,Frei
+Switzerland,G,M,Remo Freuler,R,Freuler
+Switzerland,G,M,Noah Okafor,N,Okafor
+Switzerland,G,M,Fabian Rieder,F,Rieder
+Switzerland,G,M,Ardon Jashari,A,Jashari
+Switzerland,G,F,Breel Embolo,B,Embolo
+Switzerland,G,F,Ruben Vargas,R,Vargas
+Switzerland,G,F,Djibril Sow,D,Sow
+Switzerland,G,F,Haris Seferovic,H,Seferovic
+Switzerland,G,F,Christian Fassnacht,C,Fassnacht
+Ghana,H,G,Lawrence Ati,L,Ati
+Ghana,H,G,Danlad Ibrahim,D,Ibrahim
+Ghana,H,G,Manaf Nurudeen,M,Nurudeen
+Ghana,H,D,Joseph Aidoo,J,Aidoo
+Ghana,H,D,Daniel Amartey,D,Amartey
+Ghana,H,D,Baba Rahman,B,Rahman
+Ghana,H,D,Alexander Djiku,A,Djiku
+Ghana,H,D,Tariq Lamptey,T,Lamptey
+Ghana,H,D,Gideon Mensah,G,Mensah
+Ghana,H,D,Denis Odoi,D,Odoi
+Ghana,H,D,Mohammed Salisu,M,Salisu
+Ghana,H,D,Alidu Seidu,A,Seidu
+Ghana,H,M,Andre Ayew,A,Ayew
+Ghana,H,M,Mohammed Kudus,M,Kudus
+Ghana,H,M,Daniel-Kofi Kyereh,D,Kyereh
+Ghana,H,M,Elisha Owusu,E,Owusu
+Ghana,H,M,Thomas Partey,T,Partey
+Ghana,H,M,Salis Abdul Samed,S,Abdul Samed
+Ghana,H,F,Daniel Afriyie,D,Afriyie
+Ghana,H,F,Jordan Ayew,J,Ayew
+Ghana,H,F,Osman Bukari,O,Bukari
+Ghana,H,F,Issahaku Abdul Fatawu,I,Abdul Fatawu
+Ghana,H,F,Antoine Semenyo,A,Semenyo
+Ghana,H,F,Kamal Sowah,K,Sowah
+Ghana,H,F,Kamaldeen Sulemana,K,Sulemana
+Ghana,H,F,Inaki Williams,I,Williams
+Portugal,H,G,Diogo Costa,D,Costa
+Portugal,H,G,Jose Sa,J,Sa
+Portugal,H,G,Rui Patricio,R,Patricio
+Portugal,H,D,Diogo Dalot,D,Dalot
+Portugal,H,D,Joao Cancelo,J,Cancelo
+Portugal,H,D,Danilo Pereira,D,Pereira
+Portugal,H,D,Pepe,P,Pepe
+Portugal,H,D,Ruben Dias,R,Dias
+Portugal,H,D,Antonio Silva,A,Silva
+Portugal,H,D,Nuno Mendes,N,Mendes
+Portugal,H,D,Raphael Guerreiro,R,Guerreiro
+Portugal,H,M,Joao Palhinha,J,Palhinha
+Portugal,H,M,Ruben Neves,R,Neves
+Portugal,H,M,Bernardo Silva,B,Silva
+Portugal,H,M,Bruno Fernandes,B,Fernandes
+Portugal,H,M,Joao Mario,J,Mario
+Portugal,H,M,Matheus Nunes,M,Nunes
+Portugal,H,M,Vitinha,V,Vitinha
+Portugal,H,M,William Carvalho,W,Carvalho
+Portugal,H,M,Otavio,O,Otavio
+Portugal,H,F,Cristiano Ronaldo,C,Ronaldo
+Portugal,H,F,Joao Felix,J,Felix
+Portugal,H,F,Rafael Leao,R,Leao
+Portugal,H,F,Ricardo Horta,R,Horta
+Portugal,H,F,Goncalo Ramos,G,Ramos
+Portugal,H,F,Andre Silva,A,Silva
+South Korea,H,G,Kim Seung-Gyu,K,Seung-Gyu
+South Korea,H,G,Jo Hyeon-Woo,J,Hyeon-Woo
+South Korea,H,G,Song Bum-Keun,S,Bum-Keun
+South Korea,H,D,Kim Min-Jae,K,Min-Jae
+South Korea,H,D,Kim Young-Gwon,K,Young-Gwon
+South Korea,H,D,Kwon Kyung-Won,K,Kyung-Won
+South Korea,H,D,Cho Yu-Min,C,Yu-Min
+South Korea,H,D,Kim Moon-Hwan,K,Moon-Hwan
+South Korea,H,D,Yoon Jong-Gyu,Y,Jong-Gyu
+South Korea,H,D,Kim Tae-Hwan,K,Tae-Hwan
+South Korea,H,D,Kim Jin-Su,K,Jin-Su
+South Korea,H,D,Hong Chul,H,Chul
+South Korea,H,M,Jung Woo-Young,J,Woo-Young
+South Korea,H,M,Son Jun-Ho,S,Jun-Ho
+South Korea,H,M,Paik Seung-Ho,P,Seung-Ho
+South Korea,H,M,Hwang In-Beom,H,In-Beom
+South Korea,H,M,Lee Jae-Sung,L,Jae-Sung
+South Korea,H,M,Kwon Chang-Hoon,K,Chang-Hoon
+South Korea,H,M,Jeong Woo-Yeong,J,Woo-Yeong
+South Korea,H,M,Lee Kang-In,L,Kang-In
+South Korea,H,M,Son Heung-Min,S,Heung-Min
+South Korea,H,M,Hwang Hee-Chan,H,Hee-Chan
+South Korea,H,M,Na Sang-Ho,N,Sang-Ho
+South Korea,H,M,Song Min-Kyu,S,Min-Kyu
+South Korea,H,F,Hwang Ui-Jo,H,Ui-Jo
+South Korea,H,F,Cho Gue-Sung,C,Gue-Sung
+Uruguay,H,G,Fernando Muslera,F,Muslera
+Uruguay,H,G,Sergio Rochet,S,Rochet
+Uruguay,H,G,Sebastian Sosa,S,Sosa
+Uruguay,H,D,Ronald Araujo,R,Araujo
+Uruguay,H,D,Sebastian Coates,S,Coates
+Uruguay,H,D,Martin Caceres,M,Caceres
+Uruguay,H,D,Guillermo Varela,G,Varela
+Uruguay,H,D,Matias Vina,M,Vina
+Uruguay,H,D,Mathias Olivera,M,Olivera
+Uruguay,H,D,Jose Maria Gimenez,J,Maria Gimenez
+Uruguay,H,D,Diego Godin,D,Godin
+Uruguay,H,D,Jose Luis Rodriguez,J,Luis Rodriguez
+Uruguay,H,M,Lucas Torreira,L,Torreira
+Uruguay,H,M,Matias Vecino,M,Vecino
+Uruguay,H,M,Rodrigo Bentancur,R,Bentancur
+Uruguay,H,M,Manuel Ugarte,M,Ugarte
+Uruguay,H,M,Giorgian de Arrascaeta,G,de Arrascaeta
+Uruguay,H,M,Nicolas de la Cruz,N,de la Cruz
+Uruguay,H,M,Federico Valverde,F,Valverde
+Uruguay,H,M,Facundo Pellistri,F,Pellistri
+Uruguay,H,M,Agustin Canobbio,A,Canobbio
+Uruguay,H,M,Facundo Torres,F,Torres
+Uruguay,H,F,Luis Suarez,L,Suarez
+Uruguay,H,F,Darwin Nunez,D,Nunez
+Uruguay,H,F,Maximiliano Gomez,M,Gomez
+Uruguay,H,F,Edinson Cavani,E,Cavani
